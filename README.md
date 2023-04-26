@@ -1,6 +1,6 @@
 - 👋 Hi, I’m John.
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning full-stack web development.
+- 🌱 I’m full-stack web developer.
 - 💞️ I’m looking to collaborate on coding projects.
 - 📫 Reach me on twitter @haychanchu
 
